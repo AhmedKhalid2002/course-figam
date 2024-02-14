@@ -1,0 +1,12 @@
+.landing{
+    background-image: url(../../assets/Hero.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.textBlue{
+    color: #3DCBB1 !important;
+}
+.bgBlue{
+    background-color: #3DCBB1 !important;
+}
